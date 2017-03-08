@@ -7,7 +7,7 @@ view.height // is equte to : view.frame.size.height
 
 # UIViewExt.h
 
-/*#import <UIKit/UIKit.h>
+/*#import \<UIKit/UIKit.h\>
 
 CGPoint CGRectGetCenter(CGRect rect);
 
